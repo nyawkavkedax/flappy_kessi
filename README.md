@@ -1,0 +1,1 @@
+Kessi - that's the name of the heroine of our game - is trying to fly through the bones without touching them. The game is written in Java, and the comments are written in Russian, so non-Russian speakers will have to go into the translator and get a little confused. If anything, jump on the space bar :)
